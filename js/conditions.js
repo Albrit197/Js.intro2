@@ -3,19 +3,19 @@
 const a = 7;
 const b = 9;
 
-// palyginimo operatoriai:
-//>, <, <=, >=, ==, !=, ===, !==
+// palyginimo oepratoriai:
+// rekomenduotina: >, <, <=, >=, ===, !==
+// NErekomenduotina: ==, !=
 
-//if ( salyga) {
-    //logika kuria reikia ivykdyti, jei tenkinama salyga
-//}
+// if ( salyga ) {
+//     logika, kuria reikia ivykdyti, jei tenkinama salyga
+// }
 
-//if ( a > b ) {
-//    console.log('taip, a yra daugiau uz b');
-
-//} else {
-//    console.log('ne, a yra ne daugiau uz b');
-//}
+// if ( a > b ) {
+//     console.log('taip, a yra daugiau uz b');
+// } else {
+//     console.log('ne, a yra ne daugiau uz b');
+// }
 
 if ( a > b ) {
     console.log('taip, a yra daugiau uz b');
